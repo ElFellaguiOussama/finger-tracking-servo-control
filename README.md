@@ -26,7 +26,7 @@ The measured distance (in pixels) is sent over serial to an Arduino, which conve
 
 ### 3. Upload Arduino code
 
-- Open arduino/servo_control.ino in Arduino IDE.
+- Open arduino/hand_servo.ino in Arduino IDE.
 - Select your board (e.g., Arduino Uno).
 - Upload the sketch.
 
